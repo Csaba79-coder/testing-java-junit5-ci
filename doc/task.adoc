@@ -1,0 +1,7 @@
+= Testing-java-junit5-ci
+
+Hereunder you may find the test results (also if clicking on passed - the green tag on main site)
+
+'''
+
+https://app.circleci.com/pipelines/github/springframeworkguru/testing-java-junit5-ci
